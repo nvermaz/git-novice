@@ -3,6 +3,8 @@ title: Setting Up Git
 teaching: 5
 exercises: 0
 questions:
+- What does GIT stand for
+  GIT is an acronym for Global Information Tracking 
 - "How do I get set up to use Git?"
 objectives:
 - "Configure `git` the first time it is used on a computer."
